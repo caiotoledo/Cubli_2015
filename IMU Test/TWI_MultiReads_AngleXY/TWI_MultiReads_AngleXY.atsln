@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "TWI_MultiReads_AngleXY", "TWI_MultiReads_AngleXY\TWI_MultiReads_AngleXY.cproj", "{0BE07A05-4AE3-4C42-8000-DCF2D5A52F63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BE07A05-4AE3-4C42-8000-DCF2D5A52F63}.Debug|ARM.ActiveCfg = Debug|ARM
+		{0BE07A05-4AE3-4C42-8000-DCF2D5A52F63}.Debug|ARM.Build.0 = Debug|ARM
+		{0BE07A05-4AE3-4C42-8000-DCF2D5A52F63}.Release|ARM.ActiveCfg = Release|ARM
+		{0BE07A05-4AE3-4C42-8000-DCF2D5A52F63}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

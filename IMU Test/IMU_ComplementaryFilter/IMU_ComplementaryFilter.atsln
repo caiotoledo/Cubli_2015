@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "IMU_ComplementaryFilter", "IMU_ComplementaryFilter\IMU_ComplementaryFilter.cproj", "{0AD92D28-F30A-488B-848E-4DB84E648A72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD92D28-F30A-488B-848E-4DB84E648A72}.Debug|ARM.ActiveCfg = Debug|ARM
+		{0AD92D28-F30A-488B-848E-4DB84E648A72}.Debug|ARM.Build.0 = Debug|ARM
+		{0AD92D28-F30A-488B-848E-4DB84E648A72}.Release|ARM.ActiveCfg = Release|ARM
+		{0AD92D28-F30A-488B-848E-4DB84E648A72}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

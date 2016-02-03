@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "IMU_Test", "IMU_Test\IMU_Test.cproj", "{E07B7292-4E22-4AB8-9EDE-6BE80C7C3704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E07B7292-4E22-4AB8-9EDE-6BE80C7C3704}.Debug|ARM.ActiveCfg = Release|ARM
+		{E07B7292-4E22-4AB8-9EDE-6BE80C7C3704}.Debug|ARM.Build.0 = Release|ARM
+		{E07B7292-4E22-4AB8-9EDE-6BE80C7C3704}.Release|ARM.ActiveCfg = Debug|ARM
+		{E07B7292-4E22-4AB8-9EDE-6BE80C7C3704}.Release|ARM.Build.0 = Debug|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Motor_Model_Identification4", "Motor_Model_Identification4\Motor_Model_Identification4.cproj", "{502107BD-03D2-4F55-A7E7-058FCF030392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{502107BD-03D2-4F55-A7E7-058FCF030392}.Debug|ARM.ActiveCfg = Debug|ARM
+		{502107BD-03D2-4F55-A7E7-058FCF030392}.Debug|ARM.Build.0 = Debug|ARM
+		{502107BD-03D2-4F55-A7E7-058FCF030392}.Release|ARM.ActiveCfg = Release|ARM
+		{502107BD-03D2-4F55-A7E7-058FCF030392}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "IMU_MultipleReads_FastSample", "IMU_MultipleReads_FastSample\IMU_MultipleReads_FastSample.cproj", "{18F58A38-A204-4FBC-895B-EEFA21E6CAAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18F58A38-A204-4FBC-895B-EEFA21E6CAAB}.Debug|ARM.ActiveCfg = Debug|ARM
+		{18F58A38-A204-4FBC-895B-EEFA21E6CAAB}.Debug|ARM.Build.0 = Debug|ARM
+		{18F58A38-A204-4FBC-895B-EEFA21E6CAAB}.Release|ARM.ActiveCfg = Release|ARM
+		{18F58A38-A204-4FBC-895B-EEFA21E6CAAB}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
